@@ -23,6 +23,7 @@ a {
   -moz-transition: all 0.35s;
   transition: all 0.35s;
   color: #F05F40;
+  
 }
 a:hover,
 a:focus {
@@ -43,7 +44,7 @@ p {
 }
 .bg-primary {
   background-color: #F05F40;
-  /*#F05F40;*/
+  
 }
 .bg-dark {
   background-color: #222222;
@@ -234,15 +235,7 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
 }
-#linkedin
-{
-	border-radius: 10px;
-	border: 3px solid #F05F40;
-	padding:5px;
-	width: 50px:
-	
-	
-}
+
 #services
 {
 	height: 60%;
